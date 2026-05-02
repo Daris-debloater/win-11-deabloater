@@ -1,1 +1,1 @@
-I am not responsible for anything that happens to your pc including driver loss,unbootable system and etc
+This script is a Windows debloater made for VMs, old PCs, and anyone trying to push Windows down to the lowest number of running processes possible. I am not responsible for anything that breaks, glitches, disappears, explodes, or refuses to boot after using it.
